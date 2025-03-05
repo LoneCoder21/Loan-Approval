@@ -1,0 +1,21 @@
+explore different eval metric for cross validation folds
+learn how to choose better params for models
+explainable ai instead of just feature importance
+repeatedstratifiedkfold
+original boolean feature if original is part of dataset (did this but removed it as i didnt realize what value the testing set should be)
+gradientboostingClassifier
+BaggingRegressor
+when stacking, pick only subsets of models and then stack that way. similar to randomsearch
+check mutualinformation plot against the target
+partialdependency
+Matthews correlation coefficient 
+you can use different flavors of same models for diversity (LGBM, CAT)
+apparently making every feature categorical is strong with catboost. dont understand how
+we can also keep two copies of same features. one numerical, one categorical
+lgbm goss boosting type
+mutual information plot
+hyperparameter tuning technique: fix learning rate as low as possible. then check CV every K iterations for a total number of iterations and pick model with biggest CV.
+use XGBRFClassifier for random forest but much faster to train
+increase max_bin param in xgboost and lightgbm to thousands
+focus on the competition metric for evaluation
+stack multiple lightgbm models together (goss,dart,gbdt) for diversity
