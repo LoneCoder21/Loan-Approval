@@ -39,4 +39,4 @@ For scores, I used a variant of KFold called StratifiedKFold due to the imbalanc
 -   [Kaggle Competition Link](https://www.kaggle.com/competitions/playground-series-s4e10/overview) for the official competition.
 -   [Kaggle Notebook Authors](https://www.kaggle.com/competitions/playground-series-s4e10/code?competitionId=84894&sortBy=voteCount&excludeNonAccessedDatasources=true) for their generosity in sharing clever insights and approaches.
 -   [Feature engine](https://feature-engine.trainindata.com/en/latest/index.html) to simplify data transformation operations within scikit Pipelines.
--   [Seaborn](https://seaborn.pydata.org) for data visualization tasks
+-   [Seaborn](https://seaborn.pydata.org) for data visualization tasks.
